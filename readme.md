@@ -7,4 +7,10 @@
 be calculated
 - The cities are to be plotted on the screen based on the scaled actual coordinates of the
 cities.
+
+
+
+
+
+
 The major goals enlisted above are atomic, unambiguous and measurable. They can be measured as either “Completed/ not completed/Partially completed”. 
