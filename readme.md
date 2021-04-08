@@ -1,4 +1,4 @@
-#Modular and design centred approach to the travelling salesman problem # 
+# Modular and design centred approach to the travelling salesman problem # 
 
 ## MAJOR GOALS: ##
 - A provision for the user to choose the data set of his liking.
