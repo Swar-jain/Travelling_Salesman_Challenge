@@ -1,4 +1,6 @@
-# MAJOR GOALS: #
+#Modular and design centred approach to the travelling salesman problem # 
+
+## MAJOR GOALS: ##
 - A provision for the user to choose the data set of his liking.
 - A provision for the user to run/ stop the execution of the data set at his will
 - A provision for the user to view the progress made by the algorithm so far.
